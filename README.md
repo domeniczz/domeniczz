@@ -55,6 +55,10 @@ I'm a self-taught passionate Back-End developer from China
 
 ---
 
+### 🎯 Good Habit:
+
+Weekly ARTS: https://github.com/domeniczz/ARTS-KEEP
+
 ### 🧵 My Projects:
 
 - Education platform: https://github.com/domeniczz/xuecheng-edu-project
