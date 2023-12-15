@@ -17,7 +17,6 @@ I'm a self-taught passionate Back-End developer from China
 - Exploring Technical Content Writing.
 - I read tech blogs and articles, solve Leetcode problems in my spare time.
 - Always actively searching for opportunities.
-- My Email: zhangdomenic@gmail.com.
 
 ---
 
