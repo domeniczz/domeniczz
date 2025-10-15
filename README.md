@@ -10,13 +10,12 @@
 
 ### 👨‍💻 About Me:
 
-I'm a self-taught passionate Back-End developer from China
+I'm a full-stack developer from China
 
-- I am a College student majored in Communication Enginnering.
+- I did my bachelor's in communication engineering and my master's in machine learning.
 - Love building platforms and learning new techniques.
 - Exploring Technical Content Writing.
 - I read tech blogs and articles, solve Leetcode problems in my spare time.
-- Always actively searching for opportunities.
 
 ---
 
@@ -46,7 +45,7 @@ I'm a self-taught passionate Back-End developer from China
     <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS Webservice" alt="AWS Webservice" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Webservice" alt="AWS Webservice" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </p>
